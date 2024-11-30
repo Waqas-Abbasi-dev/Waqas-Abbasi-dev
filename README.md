@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 As a MERN Stack Developer with a strong foundation in full-stack development, I specialize in building dynamic and robust web applications. I hold a Bachelor's degree in Computer Science (BSCS) from Quaid-e-Azam University, Islamabad, where I honed my skills in software development and programming.<br>During my academic journey, I developed a keen interest in web technologies, which led me to pursue an internship as a Full Stack Developer at DeveloperHub Corporation. This experience provided me with practical exposure to the MERN stack—comprising MongoDB, Express.js, React, and Node.js—enabling me to create seamless user experiences and efficient server-side applications.<br>Skills and Technologies<br>Frontend: React.js, HTML, CSS<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Version Control: Git, GitHub
 
 
